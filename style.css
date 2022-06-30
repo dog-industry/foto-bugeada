@@ -1,0 +1,16 @@
+body{
+    background-color: mediumpurple;
+    color: white;
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+.name-of-object,#resultado2,#resultado3{
+    color: cyan;
+}
+#camara{
+    border: 2px dashed darkorchid;
+    width: 350px;
+    height: 300px;
+}
